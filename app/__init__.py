@@ -1,0 +1,1 @@
+"""Retail Sniper package."""
